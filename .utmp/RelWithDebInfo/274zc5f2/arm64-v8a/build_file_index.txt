@@ -1,0 +1,2 @@
+C:\Users\davopia\Desktop\S7\BlastAndSearch\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\davopia\Desktop\S7\BlastAndSearch\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
