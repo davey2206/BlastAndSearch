@@ -7571,6 +7571,7 @@ MonoBehaviour:
   - {fileID: 252684807}
   Cube: {fileID: 151128285}
   Rb: {fileID: 151128287}
+  VFX: {fileID: 103198, guid: f646a651f4cb9434f85e742084597901, type: 3}
 --- !u!1 &1194101449
 GameObject:
   m_ObjectHideFlags: 0

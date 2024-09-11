@@ -7,6 +7,7 @@ public class HideObject : MonoBehaviour
     [SerializeField] List<Transform> Spots;
     [SerializeField] GameObject Cube;
     [SerializeField] Rigidbody Rb;
+    [SerializeField] GameObject VFX;
 
     public void Hide()
     {
@@ -18,5 +19,6 @@ public class HideObject : MonoBehaviour
     {
         Hide();
         Rb.useGravity = true;
+        Instantiate(VFX, Cube.transform.position, Quaternion.identity);
     }
 }
