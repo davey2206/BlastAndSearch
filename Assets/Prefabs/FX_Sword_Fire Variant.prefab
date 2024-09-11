@@ -160,6 +160,6 @@ MonoBehaviour:
   - LightObject
   - HeavyObject
   - SpellCollider
-  explosionForce: 500
+  explosionForce: 5
   explosionRadius: 5
   upwardModifier: 1
