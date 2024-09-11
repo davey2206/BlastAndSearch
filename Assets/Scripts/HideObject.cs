@@ -17,8 +17,8 @@ public class HideObject : MonoBehaviour
 
     public void FindObject()
     {
+        Instantiate(VFX, Cube.transform.position, Quaternion.identity);
         Hide();
         Rb.useGravity = true;
-        Instantiate(VFX, Cube.transform.position, Quaternion.identity);
     }
 }
