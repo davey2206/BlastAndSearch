@@ -1,0 +1,2 @@
+D:\School projecten\Semester 7\BlastAndSearch\BlastAndSearch\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\School projecten\Semester 7\BlastAndSearch\BlastAndSearch\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
